@@ -1,7 +1,7 @@
 <img width="247" height="528" alt="image" src="https://github.com/user-attachments/assets/a639f3d6-331c-4b95-b720-69db0f6942e3" />
 
 
-<img width="245" height="485" alt="image" src="https://github.com/user-attachments/assets/910bbe75-cbe7-444c-a3b2-bf45c27ee6d7" />
+<img width="246" height="537" alt="image" src="https://github.com/user-attachments/assets/c90902b4-5e82-4b29-b748-0402cb89882f" />
 
 
 # Workshop Management System
